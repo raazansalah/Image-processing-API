@@ -8,8 +8,4 @@ function isValidParam(
   } else return false;
 }
 
-function isImageExist(filename: string): boolean {
-  return false;
-}
-
 export default isValidParam;
